@@ -15,4 +15,193 @@
 .br-r
   border-radius: 20px !important  
 .bg-inicio
-  background-color: #26CB99 !important    
+  background-color: #26CB99 !important  
+
+.bloque-radius
+  border-radius: 0px 0px 60px 0px !important    
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto   
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #339CE9
+      span 
+        color: white
+        font-weight: bold
+        font-size: 20px 
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 10px
+      margin-right: 0.65rem
+      margin-top: 8px
+      img 
+        width: 10px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 0px
+
+.pasos-a.color-primario .pasos-a__circle      
+  animation-name: yoyo
+  animation-duration: 5.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes yoyo
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-10px)
+  100%
+    transform: translatey(0px)
+
+.yoyo
+  animation-name: yoyo
+  animation-duration: 5.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes yoyo
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-10px)
+  100%
+    transform: translatey(0px)
+
+.swing
+  animation-name: swing
+  animation-duration: 5.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes swing
+  0%
+    transform: translatex(0px)    
+  50%
+    transform: translatex(-10px)
+  100%
+    transform: translatex(0px)
+
+.cajon.color-primario
+  background-color: #E3F8F2 !important 
+
+.bg-card  
+  position: relative
+  z-index: 1
+  background: #8BEBCE
+  border-radius: 60px 0px 60px 0px
+.bg-card:before 
+  content: ""
+  position: absolute
+  z-index: -1
+  top: 0
+  right: 0
+  bottom: 30%
+  left: 0
+  background: #E3F8F2
+  border-radius: 60px 0px 0px 0px
+
+.bg-card-red
+  position: relative
+  z-index: 1
+  background: #EB9595
+  border-radius: 60px 0px 60px 0px
+.bg-card-red :before 
+  content: ""
+  position: absolute
+  z-index: -1
+  top: 0
+  right: 0
+  bottom: 30%
+  left: 0
+  background: #FCEFEF
+  border-radius: 60px 0px 0px 0px  
+
+.title.especial
+  background-color: #26CB99
+  color: white !important
+  border-radius: 0px 20px 20px 0px 
+
+.title.especial-red
+  background-color: #EB9595
+  color: white !important
+  border-radius: 0px 20px 20px 0px 
+.bg-img 
+  background-image: url(../assets/ilustraciones/img7.svg)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center
+
+.bg-img-1 
+  background-image: url(../assets/ilustraciones/img20.svg)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center  
+
+.color-row-green
+  background-color: #E3F8F2 
+  border-radius: 10px 
+  margin-top: -15rem  
+
+.color-row-green-movil
+  background-color: #E3F8F2 
+  border-radius: 10px 
+
+.tarjeta.color-primario--borde
+  background-color: #E3F8F2 !important
+  border: solid 4px #E3F8F2 !important   
+
+.cajon.color-acento-botones
+  background-color: #eb959548 !important
+
+.tarjeta--gris
+  background: linear-gradient(173deg, rgba(227,248,242,1) 0%, rgba(255,255,255,1) 100%)
+
+.tarjeta--gris-1
+  background: #E8ECED !important
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #E3F8F2  !important
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: black     
+
+.tabs-color          
+  background-color: #E3F8F2 !important
+
+.tarjeta.color-acento-botones
+  background-color: #FCEFEF !important   
