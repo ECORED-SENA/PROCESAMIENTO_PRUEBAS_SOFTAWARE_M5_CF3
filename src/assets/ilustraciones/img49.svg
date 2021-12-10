@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="241" viewBox="0 0 650 241">
+  <g id="Grupo_72224" data-name="Grupo 72224" transform="translate(-475 -6127)">
+    <rect id="Rectángulo_9100" data-name="Rectángulo 9100" width="650" height="241" transform="translate(475 6127)" fill="#0c0c0c"/>
+    <text id="app.get_pqrs_req_res_db.collection_pqrs_.find_.toArray_.then_results_res.json_results_.catch_error_console.error_error_" data-name="app.get(&apos;/pqrs&apos;, (req, res) =&gt; {
+    db.collection(&apos;pqrs&apos;).find().toArray()
+        .then(results =&gt; {
+            res.json(results);
+        }).catch(error =&gt; console.error(error));
+})
+" transform="translate(596 6165)" fill="#34b3e1" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="17">app</tspan><tspan y="17" fill="#f4f7ad">.get</tspan><tspan y="17" fill="#fff">(</tspan><tspan y="17" fill="#eb9595">&apos;/pqrs&apos;</tspan><tspan y="17" fill="#fff">, (</tspan><tspan y="17" fill="#b2e5f7">req, res</tspan><tspan y="17" fill="#fff">)</tspan><tspan y="17"> =&gt; </tspan><tspan y="17" fill="#fff">{</tspan><tspan x="0" y="42">    </tspan><tspan y="42" fill="#b2e5f7">db</tspan><tspan y="42" fill="#fff">.</tspan><tspan y="42" fill="#f4f7ad">collection</tspan><tspan y="42" fill="#fff">(</tspan><tspan y="42" fill="#eb9595">&apos;pqrs&apos;</tspan><tspan y="42" fill="#fff">)</tspan><tspan y="42" fill="#f4f7ad">.find</tspan><tspan y="42" fill="#fff">()</tspan><tspan y="42" fill="#f4f7ad">.toArray</tspan><tspan y="42" fill="#fff">()</tspan><tspan x="0" y="67">        </tspan><tspan y="67" fill="#f4f7ad">.then</tspan><tspan y="67" fill="#fff">(</tspan><tspan y="67" fill="#b2e5f7">results</tspan><tspan y="67"> =&gt;</tspan><tspan y="67" fill="#fff"> {</tspan><tspan x="0" y="92">            </tspan><tspan y="92" fill="#b2e5f7">res</tspan><tspan y="92" fill="#f4f7ad">.json</tspan><tspan y="92" fill="#fff">(</tspan><tspan y="92" fill="#b2e5f7">results</tspan><tspan y="92" fill="#fff">);</tspan><tspan x="0" y="117">        </tspan><tspan y="117" fill="#fff">})</tspan><tspan y="117" fill="#f4f7ad">.catch</tspan><tspan y="117" fill="#fff">(</tspan><tspan y="117" fill="#b2e5f7">error</tspan><tspan y="117"> =&gt; </tspan><tspan y="117" fill="#b2e5f7">console</tspan><tspan y="117" fill="#f4f7ad">.error</tspan><tspan y="117" fill="#fff">(</tspan><tspan y="117" fill="#b2e5f7">error</tspan><tspan y="117" fill="#fff">));</tspan><tspan fill="#fff"><tspan x="0" y="142">})</tspan><tspan x="0" y="167"></tspan></tspan></text>
+  </g>
+</svg>

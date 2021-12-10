@@ -1,0 +1,19 @@
+<svg id="Grupo_72188" data-name="Grupo 72188" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100.338" height="100.337" viewBox="0 0 100.338 100.337">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_9368" data-name="Rectángulo 9368" width="100.338" height="100.337" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_72188-2" data-name="Grupo 72188" clip-path="url(#clip-path)">
+    <path id="Trazado_161435" data-name="Trazado 161435" d="M100.338,50.17A50.169,50.169,0,1,1,50.168,0a50.169,50.169,0,0,1,50.17,50.17" fill="#26cb99"/>
+    <path id="Rectángulo_9365" data-name="Rectángulo 9365" d="M1.424,0h62.55A1.422,1.422,0,0,1,65.4,1.422V47.446a1.42,1.42,0,0,1-1.42,1.42H1.419A1.419,1.419,0,0,1,0,47.447V1.424A1.424,1.424,0,0,1,1.424,0Z" transform="translate(17.471 19.372)" fill="#0c2c48"/>
+    <rect id="Rectángulo_9366" data-name="Rectángulo 9366" width="24.569" height="8.287" transform="translate(37.886 66.885)" fill="#bababa"/>
+    <rect id="Rectángulo_9367" data-name="Rectángulo 9367" width="58.383" height="36.156" transform="translate(20.978 22.286)" fill="#a3b9c4"/>
+    <path id="Trazado_161436" data-name="Trazado 161436" d="M17.471,57.256v9.558a1.424,1.424,0,0,0,1.422,1.424H81.447a1.422,1.422,0,0,0,1.42-1.424V57.256Z" fill="#fff"/>
+    <path id="Trazado_161437" data-name="Trazado 161437" d="M68.544,80.965V78.3a3.557,3.557,0,0,0-3.556-3.557H35.351A3.556,3.556,0,0,0,31.8,78.3v2.667Z" fill="#fff"/>
+    <path id="Trazado_161438" data-name="Trazado 161438" d="M51.976,62.373a1.806,1.806,0,1,1-1.806-1.806,1.807,1.807,0,0,1,1.806,1.806" fill="#0c2c48"/>
+    <path id="Trazado_161439" data-name="Trazado 161439" d="M41.386,45.489l-11.031-5.03V38.545l11.031-5.279v2.811L33.52,39.442v.071l7.866,3.165Z" fill="#fff"/>
+    <path id="Trazado_161440" data-name="Trazado 161440" d="M55.416,29.3,47.161,49.044H43.83L52.051,29.3Z" fill="#50646f"/>
+    <path id="Trazado_161441" data-name="Trazado 161441" d="M69.211,40.3l-11.03,5.031v-2.8l7.888-3.153v-.048l-7.888-3.377V33.148l11.03,5.243Z" fill="#ed6b5a"/>
+  </g>
+</svg>

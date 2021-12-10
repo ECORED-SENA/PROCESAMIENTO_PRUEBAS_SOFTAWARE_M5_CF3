@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="368" height="308" viewBox="0 0 368 308">
+  <g id="Grupo_71871" data-name="Grupo 71871" transform="translate(3445 9487)">
+    <g id="Rectángulo_8571" data-name="Rectángulo 8571" transform="translate(-3445 -9487)" fill="#fff" stroke="#d37575" stroke-width="7">
+      <rect width="368" height="308" rx="20" stroke="none"/>
+      <rect x="3.5" y="3.5" width="361" height="301" rx="16.5" fill="none"/>
+    </g>
+    <text id="_peticionario_:_Funanito_de_Tal_asunto_:_Asunto_de_la_queja_fecha_:_2022-11-01_pqrs_:_Texto_detalla_del_la_PQRS_estado_:_sin_respuesta_respuesta_:_null_fecha_respuesta_:_null_" data-name="{
+  &quot;peticionario&quot;: &quot;Funanito de Tal&quot;,
+  &quot;asunto&quot;: &quot;Asunto de la queja&quot;,
+  &quot;fecha&quot;: &quot;2022-11-01&quot;,
+  &quot;pqrs&quot;: &quot;Texto detalla del la PQRS&quot;,
+  &quot;estado&quot;: &quot;sin respuesta&quot;,
+  &quot;respuesta&quot;: null,
+  &quot;fecha_respuesta&quot;: null
+}" transform="translate(-3411.531 -9458.918)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">{</tspan><tspan x="0" y="39" xml:space="preserve">  &quot;peticionario&quot;: &quot;Funanito de Tal&quot;,</tspan><tspan x="0" y="63" xml:space="preserve">  &quot;asunto&quot;: &quot;Asunto de la queja&quot;,</tspan><tspan x="0" y="87" xml:space="preserve">  &quot;fecha&quot;: &quot;2022-11-01&quot;,</tspan><tspan x="0" y="111" xml:space="preserve">  &quot;pqrs&quot;: &quot;Texto detalla del la PQRS&quot;,</tspan><tspan x="0" y="135" xml:space="preserve">  &quot;estado&quot;: &quot;sin respuesta&quot;,</tspan><tspan x="0" y="159" xml:space="preserve">  &quot;respuesta&quot;: null,</tspan><tspan x="0" y="183" xml:space="preserve">  &quot;fecha_respuesta&quot;: null</tspan><tspan x="0" y="207">}</tspan></text>
+  </g>
+</svg>

@@ -440,7 +440,7 @@
     .row.justify-content-center.align-items-center   
       .col-lg-12.bg-img-1.py-5    
         .row.justify-content-center.align-items-center  
-          .col-lg-10.bg-card-red.p-5
+          .col-lg-10.bg-card-red-1.p-5
             .row.justify-content-center.align-items-center
               .col-lg-4
                 img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img31.svg', alt='')                   
