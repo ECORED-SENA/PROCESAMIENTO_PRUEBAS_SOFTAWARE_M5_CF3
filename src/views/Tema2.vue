@@ -16,13 +16,13 @@
           .col-lg-7
             p(data-aos="fade-down-right").p-3 Es muy común dar bastante importancia a los aspectos de las aplicaciones web que son visibles, como las imágenes o el diseño, pero también existen otros elementos muy importantes para que una aplicación funcione de forma correcta y que no son visibles a simple vista.
 
-            p(data-aos="fade-down-right").bg-p-color.p-3 El backend es esa parte invisible pero esencial en todo proyecto web, y a la que es de extrema importancia darle toda la trascendencia del caso, porque de él depende en gran parte los procesos informáticos que realiza un sistema. 
+            p(data-aos="fade-down-right").bg-p-color.p-3 El <i>backend</i> es esa parte invisible pero esencial en todo proyecto web, y a la que es de extrema importancia darle toda la trascendencia del caso, porque de él depende en gran parte los procesos informáticos que realiza un sistema. 
 
         .row.justify-content-center.align-items-center      
           .col-lg-7
-            p(data-aos="fade-down-right") En el desarrollo web, el backend, es la parte del sistema que se encarga de todos los procesos necesarios para que la aplicación web funcione de forma correcta y estos procesos o funciones no son visibles. Algunas de estas acciones que controlan el backend son la conexión con la base de datos o la comunicación con el servidor de y los procesos o algoritmos que debe realizar la aplicación. 
+            p(data-aos="fade-down-right") En el desarrollo web, el <i>backend</i>, es la parte del sistema que se encarga de todos los procesos necesarios para que la aplicación web funcione de forma correcta y estos procesos o funciones no son visibles. Algunas de estas acciones que controlan el <i>backend</i> son la conexión con la base de datos o la comunicación con el servidor de y los procesos o algoritmos que debe realizar la aplicación. 
 
-            p(data-aos="fade-down-right") A continuación, se presenta cómo desarrollar un backend sencillo que permita interactuar con la base de datos sin prestar mucho énfasis en el desarrollo de algoritmos informáticos. Esto debido a que en los procesos de pruebas es importante comprender cómo funcionan internamente las aplicaciones web.
+            p(data-aos="fade-down-right") A continuación, se presenta cómo desarrollar un <i>backend</i> sencillo que permita interactuar con la base de datos sin prestar mucho énfasis en el desarrollo de algoritmos informáticos. Esto debido a que en los procesos de pruebas es importante comprender cómo funcionan internamente las aplicaciones web.
           .col-lg-5
             img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img34.svg', alt='')            
 
@@ -60,7 +60,7 @@
           .col-lg-8
             p(data-aos="fade-down-right") Para este caso de prueba se implementará una base de datos para un Sistema de Peticiones, Quejas, Reclamos y Sugerencias (PQRS), que es una herramienta que permite conocer las inquietudes y manifestaciones que tienen los visitantes a un sitio web.
 
-            p(data-aos="fade-down-right") La siguiente estructura puede ser la de un documento para una base de datos en MongoDB.              
+            p.pb-5(data-aos="fade-down-right") La siguiente estructura puede ser la de un documento para una base de datos en MongoDB.              
           .col-lg-4
             img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img36.svg', alt='')                   
 
@@ -191,28 +191,26 @@
 
     #t_2_7.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 2.7  Pruebas unitarias 
-    .row.justify-content-center.align-items-center      
-      .col-lg-12.bg-img-2.p-5
-        .row.justify-content-center.align-items-center.mt-5.p-5      
-          .col-lg-5
-            img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img53.svg', alt='')
-          .col-lg-7
-            p(data-aos="fade-down-right").p-3 Una prueba unitaria es una forma de comprobar el correcto funcionamiento de una unidad o porción de código. Para el caso que se viene trabajando, una función o un procedimiento es cada elemento del api correspondiente a las operaciones GRUD. Esto es útil para asegurar que cada unidad funcione correcta y eficientemente por separado y también para validar que el código hace lo que tiene que hacer y verificando que sea correcto.
+    .row.justify-content-center.align-items-center.mt-5      
+      .col-lg-5
+        img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img53.svg', alt='')
+      .col-lg-7
+        p(data-aos="fade-down-right").p-3 Una prueba unitaria es una forma de comprobar el correcto funcionamiento de una unidad o porción de código. Para el caso que se viene trabajando, una función o un procedimiento es cada elemento del api correspondiente a las operaciones GRUD. Esto es útil para asegurar que cada unidad funcione correcta y eficientemente por separado y también para validar que el código hace lo que tiene que hacer y verificando que sea correcto.
 
-            .row.justify-content-center.align-items-center.bg-p-color.p-3  
-              .col-lg-8
-                h5 Descargar e Instalar Postman - Probar petición GET
-                h5 Conoce como se pueda realizar pruebas unitarias en un sistema Postman,            
-              .col-lg-4
-                a(href="https://youtu.be/4X8L_qWIeI8" target="_blank")
-                  img.img-t.img-a.my-3.btn-h(data-aos="zoom-in")(src='@/assets/ilustraciones/img57.svg', alt='')
+        .row.justify-content-center.align-items-center.bg-p-color.p-3  
+          .col-lg-8
+            h5 Descargar e Instalar Postman - Probar petición GET
+            h5 Conoce como se pueda realizar pruebas unitarias en un sistema Postman,            
+          .col-lg-4
+            a(href="https://youtu.be/4X8L_qWIeI8" target="_blank")
+              img.img-t.img-a.my-3.btn-h(data-aos="zoom-in")(src='@/assets/ilustraciones/img57.svg', alt='')
 
-    .row.justify-content-start.align-items-center      
+    .row.justify-content-start.align-items-center.mt-5      
       .col-lg-9.bg-card-color-1.ps-5.pt-2
         .row.justify-content-start.align-items-center      
           .col-lg-6
             p #[b Pruebas unitarias]
-            p Visualice los siguientes videos de #[b Instalación y preparación Postman y Pruebas unitarias de software], para conocer sobre el proceso de ejecución de las pruebas unitarias.                
+            p Visualice los siguientes videos de #[b Instalación y preparación Postman y Pruebas unitarias de <i>software</i>], para conocer sobre el proceso de ejecución de las pruebas unitarias.                
           .col-lg-4
             a(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
               img.img-t.img-a.my-3.btn-h(data-aos="zoom-in")(src='@/assets/ilustraciones/img55.svg', alt='')

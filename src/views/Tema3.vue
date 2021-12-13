@@ -14,8 +14,8 @@
           .col-lg-5.p-0.mx-0
             img.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img60.svg', alt='')
           .col-lg-7.bg-color-1.p-5.mt-4
-            p(data-aos="fade-down-right").mb-0 Una de las cosas menos valoradas o probadas es la validación de la documentación del proyecto software, esto es respecto al manual de usuario, el manual técnico y la documentación presente en la codificación de los algoritmos.  Es importante que los procedimientos informativos descritos en el manual de usuario correspondan al flujo de los procesos y al procesamiento de datos confirme se han validado; es común que sean los mismos testers quienes realicen los manuales de usuario. Para el manual técnico, se ha probado es un poco más difícil, ya que requiere más de las competencias de administración de servicios (servidores, bases de datos, sistemas operativos, etc.).
-    p(data-aos="fade-down-right") El manual técnico es un documento de un determinado sistema que intenta dar asistencia a sus usuarios y va dirigido a la dirección de IT, al administrador de los sistemas o servidores y a otros desarrolladores de software para que puedan darle mantenimiento en caso de que se requiera. Un manual técnico debe contener como mínimo:
+            p(data-aos="fade-down-right").mb-0 Una de las cosas menos valoradas o probadas es la validación de la documentación del proyecto <i>software</i>, esto es respecto al manual de usuario, el manual técnico y la documentación presente en la codificación de los algoritmos.  Es importante que los procedimientos informativos descritos en el manual de usuario correspondan al flujo de los procesos y al procesamiento de datos confirme se han validado; es común que sean los mismos <i>testers</i> quienes realicen los manuales de usuario. Para el manual técnico, se ha probado es un poco más difícil, ya que requiere más de las competencias de administración de servicios (servidores, bases de datos, sistemas operativos, etc.).
+    p(data-aos="fade-down-right") El manual técnico es un documento de un determinado sistema que intenta dar asistencia a sus usuarios y va dirigido a la dirección de IT, al administrador de los sistemas o servidores y a otros desarrolladores de <i>software</i> para que puedan darle mantenimiento en caso de que se requiera. Un manual técnico debe contener como mínimo:
 
     .row.justify-content-center.align-items-center      
       .col-lg-10.time-line-color.p-5
@@ -66,8 +66,8 @@
 
           .col-lg-8
             p(data-aos="fade-down-right") El manual de usuario tiene como objetivo instruir al usuario en el uso del sistema y la solución de los problemas que puedan surgir en la operación. Este resuelve nuestras dudas como usuario, todas las posibles opciones que puede realizar el usuario con estas aplicaciones de manera detallada y mediante el uso de capturas de pantalla (imágenes).
-            .cajon.color-acento-botones.p-4.mt-5
-              p(data-aos="fade-down-right").mb-0 En conclusión, el componente formativo posibilita abordar los conceptos de configuración de un entorno de desarrollo de software, a partir del conocimiento de API Rest, integrado con las tecnologías de Node JS, express, y MongoDB, desarrollando la API desarrollada a través de la herramienta Postman. 
+            .cajon.color-acento-botones.p-4
+              p(data-aos="fade-down-right").mb-0 En conclusión, el componente formativo posibilita abordar los conceptos de configuración de un entorno de desarrollo de <i>software</i>, a partir del conocimiento de API Rest, integrado con las tecnologías de Node JS, express, y MongoDB, desarrollando la API desarrollada a través de la herramienta Postman. 
     separador                        
 </template>
 
@@ -87,7 +87,7 @@ export default {
       },
       {
         texto:
-          'Requisitos de la infraestructura y de dependencias de otros softwares o plataformas.',
+          'Requisitos de la infraestructura y de dependencias de otros <i>softwares</i> o plataformas.',
         icono: require('@/assets/ilustraciones/img63.svg'),
       },
       {

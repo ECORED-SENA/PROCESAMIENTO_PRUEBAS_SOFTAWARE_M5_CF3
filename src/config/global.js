@@ -263,6 +263,7 @@ export default {
     },
     {
       texto: 'Pinchao, P. (2021). <i>Estructura de una página.</i> ',
+      tipo: 'Página web',
       link: 'https://codepen.io/peter-emerson-pinchao/pen/xxLwQOp',
     },
     {

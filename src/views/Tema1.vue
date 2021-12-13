@@ -21,7 +21,7 @@
     #t_1_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.1  Prototipo (#[i mockup], Sketch, #[i wireframe])
       
-    p(data-aos="fade-down-right") El proceso de prototipado consiste en elaborar una representación visual de los componentes del software y este proceso da como resultado la creación de subproductos según el nivel de fidelidad visual respecto al producto final, de esta forma podemos definir los prototipos de la siguiente forma: #[i mockups] (alta fidelidad) y #[i wireframe] (es una representación de baja o media fidelidad).  En algunos equipos de trabajo los desarrolladores usan el nombre “prototipado” para referirse a una simulación que ofrece algún tipo de interacción con el usuario, para todos los casos existen muchas herramientas que permiten la creación de alguno de estos subproductos tal vez el más popular para crear #[i mockups, wireframe] o prototipos con interacción, es Sketch, aunque  solo es para Mac, es la que mejor calidad de prototipados ofrece actualmente. 
+    p(data-aos="fade-down-right") El proceso de prototipado consiste en elaborar una representación visual de los componentes del <i>software</i> y este proceso da como resultado la creación de subproductos según el nivel de fidelidad visual respecto al producto final, de esta forma podemos definir los prototipos de la siguiente forma: #[i mockups] (alta fidelidad) y #[i wireframe] (es una representación de baja o media fidelidad).  En algunos equipos de trabajo los desarrolladores usan el nombre “prototipado” para referirse a una simulación que ofrece algún tipo de interacción con el usuario, para todos los casos existen muchas herramientas que permiten la creación de alguno de estos subproductos tal vez el más popular para crear #[i mockups, wireframe] o prototipos con interacción, es Sketch, aunque  solo es para Mac, es la que mejor calidad de prototipados ofrece actualmente. 
 
     .cajon.color-primario.p-4.mt-5
       p(data-aos="fade-down-right").mb-0 Debido a que Sketch no es de libre distribución y no todos disponen de un Mac para realizar un prototipo, a continuación, se presentan unos pasos sencillos para elaborar un mockup, para lo cual de manera inicial se deberá crear una cuenta en el siguiente enlace: 
@@ -61,7 +61,7 @@
       .col-lg-10.bg-card.p-5
         .row.justify-content-center.align-items-center      
           .col-lg-8
-            p(data-aos="fade-down-right") La maquetación web es el proceso que consiste en tomar el prototipo gráfico también denominado layout (con los requisitos estructurales y estéticos definidos y aprobados en un análisis inicial) pasa a transformarse en código HTML, CSS y JS (estándares web) para que los navegadores puedan interpretarlo correctamente.
+            p(data-aos="fade-down-right") La maquetación web es el proceso que consiste en tomar el prototipo gráfico también denominado <i>layout</i> (con los requisitos estructurales y estéticos definidos y aprobados en un análisis inicial) pasa a transformarse en código HTML, CSS y JS (estándares web) para que los navegadores puedan interpretarlo correctamente.
           .col-lg-4
             img.img-t.img-a.my-3.yoyo(data-aos="zoom-in")(src='@/assets/ilustraciones/img6.svg', alt='')
 
@@ -82,7 +82,7 @@
           .col-lg-10.bg-card.p-5
             .row.justify-content-center.align-items-center      
               .col-lg-8
-                p(data-aos="fade-down-right") #[i Mobile first] «los móviles primero», es la estrategia de diseño que refiere a una maquetación que tenga en cuenta, en primera instancia, el despliegue en dispositivos móviles. Pantallas reducidas en relación con las tablets o los monitores que usamos comúnmente con los ordenadores, y tras tener la maqueta preparada para móviles, realizar un escalado y hacer otra dimensión de pantallas, es decir, aumentar el tamaño y adaptarlo a una pantalla de escritorio.
+                p.pb-5(data-aos="fade-down-right") #[i Mobile first] «los móviles primero», es la estrategia de diseño que refiere a una maquetación que tenga en cuenta, en primera instancia, el despliegue en dispositivos móviles. Pantallas reducidas en relación con las tablets o los monitores que usamos comúnmente con los ordenadores, y tras tener la maqueta preparada para móviles, realizar un escalado y hacer otra dimensión de pantallas, es decir, aumentar el tamaño y adaptarlo a una pantalla de escritorio.
               .col-lg-4
                 img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img8.svg', alt='')     
 
@@ -178,14 +178,14 @@
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img11.svg', alt='')
             p.text-center #[b Materiales]  
 
-      .tarjeta.color-primario--borde.p-4(titulo="Lo material como una metáfora")
+      .tarjeta.color-primario--borde.p-4(titulo="Llamativo e intencional")
         .row.justify-content-start.align-items-center    
           .col-lg-12
             h5 Llamativo e intencional
             p Todos los elementos visuales son diseñados por los conceptos de la teoría del diseño como el uso del color, los espacios en blanco, sombras, el sistema de tabla de datos, etc. Todos estos elementos ayudan a determinar la jerarquía y lectura visual.
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img12.svg', alt='')
 
-      .tarjeta.color-primario--borde.p-4(titulo="Lo material como una metáfora")
+      .tarjeta.color-primario--borde.p-4(titulo="Sistema de color de material Design")
         .row.justify-content-start.align-items-center    
           .col-lg-12
             h5 Sistema de color de material Design 
@@ -193,7 +193,7 @@
             p Las variaciones de oscuros y claros para cada color se aplican a la interfaz de usuario de diferentes maneras de manera preestablecida.
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img13.svg', alt='')
 
-      .tarjeta.color-primario--borde.p-4(titulo="Lo material como una metáfora")
+      .tarjeta.color-primario--borde.p-4(titulo="El movimiento otorga significado")
         .row.justify-content-start.align-items-center    
           .col-lg-12
             h5 El movimiento otorga significado
@@ -215,15 +215,16 @@
             .col-11
               p Para empezar a usar este <i>framework</i> basta con agregar dentro la etiqueta &lt; head &gt; del documento HTML la etiqueta: 
               .cajon.color-acento-botones.p-4.my-4
-                p(data-aos="fade-down-right").mb-0 &lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"&gt; 
+                img(src='@/assets/ilustraciones/img79.svg', alt='') 
               p Y si antes de finalizar la etiqueta &lt;body&gt; del documento HTML el código JavaScript:
               .cajon.color-acento-botones.p-4.my-4
-                p(data-aos="fade-down-right").mb-0 &lt;script <br> src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"><br>&lt;/script &gt;
+                img(src='@/assets/ilustraciones/img80.svg', alt='') 
 
           .row.justify-content-center.align-items-center(numero="2" titulo="Ejemplo de documento HTML")
             .col-11
               .cajon.color-acento-botones.p-4.my-4
-                p(data-aos="fade-down-right").mb-0 &lt;!doctype html> <br>&lt;html lang="es"><br>&lt;head><br>&lt;meta charset="utf-8"><br>&lt;meta name="viewport" content="width=device-width, initial-scale=1"><br>&lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"><br><br>&lt;title>Hello, world!&lt;/title><br>&lt;/head><br>&lt;body><br>&lt;h1>Hello, world!&lt;/h1><br><br>&lt;script&lt; src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"> &lt; /script &gt;<br><br>&lt;/body&gt;<br>&lt;/html> 
+                img(src='@/assets/ilustraciones/img78.svg', alt='')                   
+                
 
           .row.justify-content-center.align-items-center(numero="3" titulo="Maquetación Bootstrap")
             .col-11
@@ -270,8 +271,9 @@
           .row.justify-content-center.align-items-center(numero="4" titulo="Creación de una fila para un contenedor la clase row")
             .col-11
               .cajon.color-acento-botones.p-4.my-4
-                p(data-aos="fade-down-right").mb-0 &lt;div class="row"><br>&lt;/div>   
-              p Cada divisor de clase row, puede contener cuantos divisores se deseen, solo que para dimensionar el tamaño que ocupa cada uno, en un sistema de 12 columnas, se deben usar las clases que definen el tamaño con número de 1 a 12, col-1, col-2, col-*, donde * va de 1 a 12.  Siempre es deseable que la suma de estos divisores columna sea 12 o múltiplos de 12.
+                img.img-t(src='@/assets/ilustraciones/img81.svg', alt='') 
+  
+              p Cada divisor de clase <i>row</i>, puede contener cuantos divisores se deseen, solo que para dimensionar el tamaño que ocupa cada uno, en un sistema de 12 columnas, se deben usar las clases que definen el tamaño con número de 1 a 12, col-1, col-2, col-*, donde * va de 1 a 12.  Siempre es deseable que la suma de estos divisores columna sea 12 o múltiplos de 12.
               p A continuación, un ejemplo: 
               .cajon.color-acento-botones.p-4.my-4
                 img(src='@/assets/ilustraciones/img14.svg', alt='')
@@ -379,7 +381,7 @@
 
     #t_1_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.4  Validación de interfaz de usuario 
-
+    p(data-aos="fade-down-right") La validación y verificación de la interfaz del usuario es recomendable que se realicen tres puntos del proceso que son: 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -405,7 +407,8 @@
               h2.text-center En la funcionalidad
               p Durante las pruebas donde, básicamente, se ensayan ejecutando la aplicación.
 
-    .row.justify-content-center.align-items-center.mt-5
+    p(data-aos="fade-down-right").mt-5 Teniendo en cuenta lo anterior, los objetivos que se obtienen con las pruebas de interfaz son:
+    .row.justify-content-center.align-items-center
       .col-lg-7
         .list
           .list__item
