@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="849.701" viewBox="0 0 1030 849.701">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e3f8f2"/>
+      <stop offset="0.659" stop-color="#fefffe"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.378" y1="0.354" x2="0" y2="0.036" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#95ebd1" stop-opacity="0"/>
+      <stop offset="1" stop-color="#607b82" stop-opacity="0.757"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.378" y1="0.646" x2="0" y2="0.964" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Grupo_69709" data-name="Grupo 69709" transform="translate(-390 -3180)">
+    <path id="Trazado_156192" data-name="Trazado 156192" d="M0,0H1030V849.7H0Z" transform="translate(390 3180)" fill="url(#linear-gradient)"/>
+    <path id="Intersección_27" data-name="Intersección 27" d="M0,133.964H176.448V0H0Z" transform="translate(1419.964 3180) rotate(90)" fill="url(#linear-gradient-2)"/>
+    <path id="Intersección_28" data-name="Intersección 28" d="M0,0H176.448V133.964H0Z" transform="translate(523.964 3180) rotate(90)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
