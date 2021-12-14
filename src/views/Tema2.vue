@@ -210,12 +210,13 @@
         .row.justify-content-start.align-items-center      
           .col-lg-6
             p #[b Pruebas unitarias]
-            p Visualice los siguientes videos de #[b Instalación y preparación Postman y Pruebas unitarias de <i>software</i>], para conocer sobre el proceso de ejecución de las pruebas unitarias.                
+            p Visualice los siguientes videos de <b> Instalación y preparación Postman y Pruebas unitarias de <i>software</i></b>, para conocer sobre el proceso de ejecución de las pruebas unitarias.
+
           .col-lg-4
-            a(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a(href="https://youtu.be/4X8L_qWIeI8" target="_blank")
               img.img-t.img-a.my-3.btn-h(data-aos="zoom-in")(src='@/assets/ilustraciones/img55.svg', alt='')
-            a(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")              
-            img.img-t.img-a.my-3.btn-h(data-aos="zoom-in")(src='@/assets/ilustraciones/img56.svg', alt='')
+            a(href="https://www.youtube.com/watch?v=iYlWlhG_45I" target="_blank")              
+              img.img-t.img-a.my-3.btn-h(data-aos="zoom-in")(src='@/assets/ilustraciones/img56.svg', alt='')
     .row.justify-content-end.align-items-center.img-m-top-1      
       .col-lg-5
         img.img-t.img-a.my-3(data-aos="zoom-in")(src='@/assets/ilustraciones/img54.svg', alt='')
